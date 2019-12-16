@@ -10,5 +10,10 @@ public static void main(String[] args) {
 		a = a/10;
 	}
 	System.out.println(j);
+	if (j==n) {
+		System.out.println("it's an palindrome");
+	} else {
+System.out.println("it's not an palindrome");
+	}
 }
 }
